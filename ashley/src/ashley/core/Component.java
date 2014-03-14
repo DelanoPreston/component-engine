@@ -7,5 +7,5 @@ package ashley.core;
  * @author Stefan Bachmann
  */
 public class Component {
-	
+	//muahaha
 }
